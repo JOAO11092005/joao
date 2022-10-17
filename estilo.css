@@ -134,34 +134,37 @@ body{
 }
 
 .redes-sociais li a{    
-    width: 250px;
+    width: 300px;
     display: block;
-    color: #f3f3f3;
+    color: #fff;
     text-align: center;
     padding: 10px;
-    font-size: 20px;
+    font-size: 25px;
     transition: opacity 0.3s ease-in-out;
 }
 
 .redes-sociais li a:hover{
     transition: 0.25s;
-    background-color: #fff;
+    background-color:darkgoldenrod;
 }
 
 .redes-sociais .curriculo{
+    width: 200px;
     background-color: #3b5998 ;
     border: 2px solid black;
-    border-radius: 20px;
+    border-radius: 100px;
 }
 
 .redes-sociais .linkedin{
+    width: 200px;
     background-color: red;
     border: 2px solid black;
-    border-radius: 20px;
+    border-radius: 100px;
 }
 
 .redes-sociais .github{
-    background-color: #545454;
+    width: 200px;
+    background-color: url(#63, #114, #155);
     border: 2px solid black;
-    border-radius: 20px;
+    border-radius: 100px;
 }
