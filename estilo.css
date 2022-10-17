@@ -150,13 +150,15 @@ body{
 
 .redes-sociais .curriculo{
     background-color: #3b5998 ;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 
 .redes-sociais .linkedin{
     background-color: red;
+    border-radios: 20px;
 }
 
 .redes-sociais .github{
     background-color: #545454;
+    border-radios: 20px;
 }
