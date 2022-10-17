@@ -145,7 +145,7 @@ body{
 
 .redes-sociais li a:hover{
     transition: 0.25s;
-    background-color: darkgoldenrod;
+    background-color: #fff;
 }
 
 .redes-sociais .curriculo{
