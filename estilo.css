@@ -123,7 +123,37 @@ body{
 .informacoes-abas .descricao span{
     color: #02d08f;
 }
-
+header a{
+    background-position: center;
+}
+header .descricao li a{
+    display: inline-block;
+    color: red;
+    font-weight: 500;
+    text-decoration: none;
+    font-size: 19px;
+    margin-left: 100px;
+    border-radius: 15px;
+}
+.descricao li a:hover{
+    background: #e51e2a;
+    transform: translateY(-10px);
+    border-radius: 15px;
+}
+.descricao li a {
+    width: 300px;
+    display: block;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    font-size: 25px;
+    transition: opacity 0.3s ease-in-out;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
 .redes-sociais{
     display: flex;
     flex-direction: column;
